@@ -1,6 +1,6 @@
 # VMware vSphere Terraform Deployment
 
-This repository contains Terraform configuration files for deploying virtual machines on a VMware vSphere environment. The deployment is customizable using variables that you can define in your `defaults.tfvars` file or pass them through the command line when running Terraform commands.
+This repository contains files for deploying virtual machines on a VMware vSphere environment. The deployment is customizable using variables that you can define in your `defaults.tfvars` file or pass them through the command line when running Terraform commands.
 
 ## Prerequisites
 
